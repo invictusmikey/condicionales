@@ -1,0 +1,16 @@
+Algoritmo edad
+real edad,edad2
+edad2 = edad>=18
+
+Segun edad2
+caso true :
+	imprimir("usted es mayor de edad")
+caso false:
+	imprimir("usted no es mayor de edad")
+enotrocaso:
+
+FinSegun 
+FinAlgoritmo
+
+
+

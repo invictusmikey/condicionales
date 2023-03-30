@@ -1,0 +1,18 @@
+Algoritmo Supermercado
+Cadena producto
+leer(producto)
+
+Según producto
+Caso "crema":
+imprimir("Paga IVA")
+Caso "vino":
+imprimir("Paga IVA")
+Caso "lentejas":
+imprimir("No Paga IVA")
+Caso "arroz":
+imprimir("No Paga IVA")
+EnOtroCaso:
+imprimir("Producto no válido")
+Finsegun
+
+FinAlgoritmo
